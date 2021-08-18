@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(0, 255, 179);
+}
+ .center{
+    position: relative;
+    width: 255px; 
+    left: 100px;
+    top: -100px;
+    border: 1px solid gray;
+    background-color: aqua;
+
+} 
+.data{
+    position: relative;
+    padding: 70px 0;
+
+    font-size: 70px;
+}
+.btn{
+    position: relative;
+    width: 255px;
+    left: -154px;
+    top: 50px
+}
+button{
+    padding: 20px 26px;
+    color: white;
+}
