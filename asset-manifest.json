@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yash805/react_upload/static/css/main.770ac60a.chunk.css",
+    "main.js": "/yash805/react_upload/static/js/main.3197125d.chunk.js",
+    "main.js.map": "/yash805/react_upload/static/js/main.3197125d.chunk.js.map",
+    "runtime-main.js": "/yash805/react_upload/static/js/runtime-main.bb38c8f6.js",
+    "runtime-main.js.map": "/yash805/react_upload/static/js/runtime-main.bb38c8f6.js.map",
+    "static/css/2.f2512455.chunk.css": "/yash805/react_upload/static/css/2.f2512455.chunk.css",
+    "static/js/2.5cf23c41.chunk.js": "/yash805/react_upload/static/js/2.5cf23c41.chunk.js",
+    "static/js/2.5cf23c41.chunk.js.map": "/yash805/react_upload/static/js/2.5cf23c41.chunk.js.map",
+    "static/js/3.01e352e5.chunk.js": "/yash805/react_upload/static/js/3.01e352e5.chunk.js",
+    "static/js/3.01e352e5.chunk.js.map": "/yash805/react_upload/static/js/3.01e352e5.chunk.js.map",
+    "index.html": "/yash805/react_upload/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/yash805/react_upload/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.770ac60a.chunk.css.map": "/yash805/react_upload/static/css/main.770ac60a.chunk.css.map",
+    "static/js/2.5cf23c41.chunk.js.LICENSE.txt": "/yash805/react_upload/static/js/2.5cf23c41.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yash805/react_upload/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb38c8f6.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.5cf23c41.chunk.js",
+    "static/css/main.770ac60a.chunk.css",
+    "static/js/main.3197125d.chunk.js"
+  ]
+}
